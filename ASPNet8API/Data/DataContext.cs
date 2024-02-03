@@ -10,5 +10,6 @@ namespace ASPNet8API.Data
 
         }
         public DbSet<SuperHero> SuperHeroes { get; set; }
+
     }
 }

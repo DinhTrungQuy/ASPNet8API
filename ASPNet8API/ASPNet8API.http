@@ -12,3 +12,12 @@ GET {{ASPNet8API_HostAddress}}/weatherforecast
 GET {{ASPNet8API_HostAddress}}/api/superhero
 
 ###
+
+POST {{ASPNet8API_HostAddress}}/api/superhero
+Content-Type: application/json
+
+{
+  //SuperHero
+}
+
+###
